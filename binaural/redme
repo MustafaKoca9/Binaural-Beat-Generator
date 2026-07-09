@@ -1,0 +1,6 @@
+If you are using a distribution other than Debian, first install qt6 on your system. Then extract this folder to a suitable directory (desktop or home directory) and view the files there. Open a terminal and enter the following commands:
+
+chmod +x binaural.py
+python3 binaural.py
+
+
