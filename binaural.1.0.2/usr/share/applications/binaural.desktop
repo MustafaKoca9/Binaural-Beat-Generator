@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0.2
+Type=Application
+Name=Binaural Beat Generator
+Comment=A lightweight binaural audio simulator
+Exec=python3 /usr/share/gnaural/binaural.py
+Icon=brain
+Terminal=false
+Categories=AudioVideo;Audio;Utility;
+StartupNotify=true
